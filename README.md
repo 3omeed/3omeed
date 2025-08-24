@@ -23,6 +23,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge)
 
 **Tools & Platforms**  
@@ -53,10 +55,9 @@
 
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](#)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?logo=vercel&logoColor=white&style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abdelrahman-emad27/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?logo=vercel&logoColor=white&style=for-the-badge)](https://www.abdelrahmanemad.online/)
 
 ---
 
-⭐️ From [Abdelrahman Emad](https://github.com/abdelrahmanemad)  
+⭐️ From [Abdelrahman Emad](https://github.com/3omeed)  
